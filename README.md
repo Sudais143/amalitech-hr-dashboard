@@ -1,7 +1,5 @@
 # Amalitech-HR-Analytics-Dashboard
 
-### Dashboard Link: [Power BI Report](https://app.powerbi.com/groups/me/reports/your-dashboard-link-here/ReportSection)
-
 ## Problem Statement
 
 This HR Analytics Dashboard was created to provide AmaliTech with a comprehensive overview of workforce trends, performance metrics, and employee demographics. It enables HR leadership to identify strengths, gaps, and risk areas across departments and regions—empowering evidence-based decision-making.
