@@ -9,7 +9,7 @@ This HR Analytics Dashboard was created to provide AmaliTech with a comprehensiv
 By visualizing key indicators such as gender distribution, contract types, recruitment channels, awards, training, service years, and KPI achievements, AmaliTech can better align HR initiatives with strategic goals. The dashboard also surfaces early warnings such as at-risk talent pools and underperforming locations, allowing for proactive interventions.
 
 ## Key Metrics
-
+ 
 - **Total Employees:** 23,000  
 - **KPI Met Rate:** 35.9%  
 - **Average Rating:** 3.31  
