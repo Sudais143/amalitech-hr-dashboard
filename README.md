@@ -94,7 +94,9 @@ Before building the visualizations, the raw dataset underwent transformation in 
 ## Snapshots
 
 
-![WhatsApp Image 2025-05-22 at 07 48 10_92cf6977]([https://github.com/user-attachments/assets/1536b355-a79b-4f56-b206-c893298bbf0a](https://github.com/Sudais143/amalitech-hr-dashboard/blob/main/AmaliTech%20HR%20Landing.png))![WhatsApp Image 2025-05-22 at 07 48 10_a0dd1a03](https://github.com/user-attachments/assets/46998fc9-1de9-40a9-86f7-33da2811bd9a)
+![AmaliTech HR Landing](https://github.com/user-attachments/assets/1536b355-a79b-4f56-b206-c893298bbf0a)
+
+![AmaliTech 2nd](https://github.com/user-attachments/assets/46998fc9-1de9-40a9-86f7-33da2811bd9a)
 
 
 
